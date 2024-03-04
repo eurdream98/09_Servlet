@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practice/chap01-life-cycle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practice/chap02-service-method" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practice/chap03-parameter" vcs="Git" />
