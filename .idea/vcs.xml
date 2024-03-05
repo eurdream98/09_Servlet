@@ -11,6 +11,12 @@
     <mapping directory="$PROJECT_DIR$/practice/chap08-redirect" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practice/chap09-cookie" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/practice/chap10-session" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/chap11-filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/chap11-filter2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/chap12-jsp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/chap12-jsp-error" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/chap14-el-jstl-lecture-source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice/chap15-mvc-lelcture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/workspace/chap01-life-cycle-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/workspace/chap02-service-method-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/workspace/chap03-paramete-lecture-source" vcs="Git" />
@@ -21,6 +27,8 @@
     <mapping directory="$PROJECT_DIR$/workspace/chap08-redirect-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/workspace/chap09-cookie-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/workspace/chap10-session-lecture-source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/chap11-filter-lecture-source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspace/chap13-jsp-lecture-source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/workspace/dynamic-web-project" vcs="Git" />
   </component>
 </project>
